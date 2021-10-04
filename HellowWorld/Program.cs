@@ -12,5 +12,10 @@ namespace HellowWorld
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
+
+        public static void Addition()
+        {
+            Console.WriteLine("Addition Operation");
+        }
     }
 }

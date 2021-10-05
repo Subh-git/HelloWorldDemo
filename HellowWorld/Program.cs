@@ -17,7 +17,8 @@ namespace HellowWorld
         {
             Console.WriteLine("Addition Operation");
             Console.WriteLine("Modifying");
-            Console.WriteLine("Let's crerate a conflict at local")
+            Console.WriteLine("Let's crerate a conflict at local");
+            Console.WriteLine("New conflict at remote");
         }
     }
 }
